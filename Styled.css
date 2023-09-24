@@ -1,0 +1,18 @@
+    h1,h2 
+    {
+        color:black;
+        font-size:30px;
+        background-color:rgb(241, 218, 218);width: 25%;
+    }
+    body
+    {
+        background-color: rgb(209, 223, 193);
+        
+       }   
+    .image-left 
+    {
+        float: right;
+        margin-right: 10px; /* Optional: Add some margin to create space between the image and text */
+    }
+    
+ 
