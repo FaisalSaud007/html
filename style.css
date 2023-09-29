@@ -41,7 +41,13 @@ ul.menu li a:hover
     margin-top: none;
     margin-bottom: 0%;
     margin-left: 0%;
-  }
+     }
+     .img img{
+      border-radius: 50%;
+      margin-right: 15 px;
+      border-color: brown;
+      border-style: double;
+     }
   .mobile {
     list-style: none;
     padding: 0;
